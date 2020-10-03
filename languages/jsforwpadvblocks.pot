@@ -3,10 +3,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-Generator: babel-plugin-makepot\n"
 
-#: blocks/01-gallery/index.js:22
+#: blocks/01-gallery/index.js:21
 msgid "ReApp"
 msgstr ""
 
-#: blocks/01-gallery/index.js:23
+#: blocks/01-gallery/index.js:22
 msgid "A demo custom reapp block"
 msgstr ""

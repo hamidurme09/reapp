@@ -1,3 +1,51 @@
-.wp-block-jsforwpadvblocks-gallery.column img{height:auto}.wp-block-jsforwpadvblocks-gallery.row img{height:100%}
+.wp-block-jsforwpadvblocks-gallery.column img {
+  height: auto; }
+
+.wp-block-jsforwpadvblocks-gallery.row img {
+  height: 100%; }
+
+.stopwatch {
+  padding: 60px 0px;
+  text-align: center; }
+
+.stopwatch span {
+  width: 100px;
+  background: #00aba9;
+  color: #fff;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 22px;
+  padding: 20px;
+  border-radius: 5px; }
+
+.saveBtn {
+  background-color: green;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  height: 25px;
+  width: 80px;
+  margin-left: 25px; }
+
+.deleteBtn {
+  background-color: red;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  height: 25px;
+  width: 80px;
+  margin-left: 25px; }
+
+.deleteAll {
+  background-color: red;
+  padding: 5px 10px;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  cursor: pointer; }
+
+.todoList {
+  min-width: 200px; }
 
 /*# sourceMappingURL=blocks.style.css.map*/
